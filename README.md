@@ -1,4 +1,4 @@
-# fast-banner-generator
+# fast-banner-generator [(راهنمای فارسی)](https://github.com/womanlifefreedom1401/fast-banner-generator/blob/main/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D9%86%D8%B3%D8%AE%D9%87%DB%B1-%D9%81%D8%B4%D8%B1%D8%AF%D9%87.pdf)
 <p align="center">
   <img src="https://github.com/womanlifefreedom1401/fast-banner-generator/blob/main/sample/f8.png" width="400">
 </p>
